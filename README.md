@@ -1,3 +1,6 @@
-mvn mybatis-generator:generate
+ ```
+  mvn mybatis-generator:generate
+ ```
 
-git config  http.postBuffer 524288000 
+![](http://7xir7h.com1.z0.glb.clouddn.com/mybatis-generator.jpg?raw=true)
+
